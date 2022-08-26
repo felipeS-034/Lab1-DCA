@@ -1,0 +1,150 @@
+.nameuser {
+    color: black;
+    font-size: 10px;
+    font-family: Helvetica;
+    font-weight: 5000;
+    position: absolute;
+    top: 17px;
+    left: 40px;  
+}
+
+.comentuser {
+    color: black;
+    font-size: 10px;
+    font-family: Helvetica;
+    font-weight: 450;
+    position: absolute;
+    top: 210px;
+    left: 16px;
+    right: 2px;    
+}
+
+/*.rectangulo{
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 700px;
+    height: 800px;
+    box-shadow: 1px 1px 10px #999;
+    margin: 600px;
+    top: 800px;
+    left: 800px;
+
+}*/
+
+.cartapost{
+    display: flex;
+    position: absolute;
+    width: 220px;
+    height: 300px;
+    color: black;
+    box-shadow: 1px 1px 10px #999;
+}
+
+.Corazon{
+    width: 14px;
+    position: absolute;
+    top: 180px;
+    left: 17px;
+}
+
+.coment{
+    width: 25px;
+    position: absolute;
+    top: 174px;
+    left: 35px;
+}
+
+.compartir{
+    width: 15px;
+    position: absolute;
+    top: 180px;
+    left: 63px;
+}
+
+.guardar{
+    width: 13px;
+    position: absolute;
+    top: 180px;
+    left: 88px;
+}
+
+.like {
+    color: black;
+    font-size: 10px;
+    font-family: Helvetica;
+    position: absolute;
+    top: 195px;
+    left: 17px;
+}
+
+.views {
+    color: gray;
+    font-size: 10px;
+    font-family: Helvetica;
+    position: absolute;
+    font-weight: 450;
+    top: 223px;
+    left: 16px;
+}
+
+.day {
+    color: gray;
+    font-size: 7px;
+    font-family: Helvetica;
+    position: absolute;
+    font-weight: 450;
+    top: 240px;
+    left: 17px;
+}
+
+.borde{
+    border-radius: 80%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 20px;
+    left: 17px;
+
+}
+
+.points{
+    width: 15px;
+    position: absolute;
+    top: 25px;
+    left: 201px;
+    transform: rotate(90deg);
+
+
+}
+
+.Vpoints{
+    width: 10px;
+    position: absolute;
+    top: 10px;
+    left: 205px;
+    transform: rotate(90deg);
+
+}
+
+.Comentario{
+    width: 25px;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+
+.carro{
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left: 17px;
+}
+
+.cont{
+    width: 13px;
+    position: absolute;
+    top: 185px;
+    left: 120px;
+}
+
